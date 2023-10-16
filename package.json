@@ -1,0 +1,14 @@
+{
+  "name": "carta_gorilas_pdf",
+  "version": "1.0.0",
+  "description": "Carta Gorilas Fast Food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JuanDiegoGuerra",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
